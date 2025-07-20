@@ -1,1 +1,2 @@
 
+<!-- Say, the attacker does not know the three key qubits, $key_{0}$, $key_{1}$, and $key_{2}$ of the 128-qubit Key, $key$ and knows that $\langle key_3, \cdots, key_{127} \rangle$ is {0x1dc54efe8d051b64a1c8168dca14273d} (in hexa-decimal format), and IV is {0x9d21f56d9f18bf15216fd818cebed1a6}, provided that the initialization phase iterates for \textcolor{red}{140} rounds. In Table~\ref{atom-tab:8ks}, we represent the key streams generated for 8 different combinations of $key_{0}$, $key_{1}$, and $key_{2}$. -->
